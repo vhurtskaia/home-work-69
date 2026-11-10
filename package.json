@@ -1,0 +1,12 @@
+{
+  "name": "home-work-69",
+  "version": "1.0.0",
+  "description": "Mongo Shell практика: CRUD, агрегація та індекси для studentDB.assignments",
+  "private": true,
+  "scripts": {
+    "task1": "mongosh src/01_crud.js",
+    "task2": "mongosh src/02_aggregation.js",
+    "task3": "mongosh src/03_indexes.js",
+    "all": "mongosh src/run_all.js"
+  }
+}
